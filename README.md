@@ -3,7 +3,7 @@ Amazon Product Scrap in python. Without using amazon api, get all the product de
 
 ```Python
 
-python amazonparse.py searchTerm
+python amazonparser.py searchTerm
 
 ```
 
